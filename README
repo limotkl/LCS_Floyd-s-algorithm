@@ -1,0 +1,13 @@
+name:Fang Li
+Email:fli25@binghamton.edu
+
+finished 
+
+1.make run 
+
+---it will produce 2 executable file 1.out and 2.out
+
+2.run 
+
+./1.out stringA stringB
+./2.out
